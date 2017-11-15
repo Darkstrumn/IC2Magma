@@ -1,0 +1,14 @@
+[
+{
+  "modid": "ic2magma",
+  "name": "IC2Magma",
+  "description": "Adds IC2 Recipe for magma block",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://minecraft.curseforge.com/projects/ic2magma",
+  "updateUrl": "https://minecraft.curseforge.com/projects/ic2magma/files",
+  "authorList": ["lavX64"],
+  "parent": "ic2",
+  "dependencies": ["ic2"]
+}
+]
